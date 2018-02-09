@@ -1,0 +1,19 @@
+{
+    "name": "learn-electron",
+    "version": "1.0.0",
+    "description": "A minimal Electron application",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/liliexuan/learn-electron",
+    "keywords": [
+        "Electron",
+        "learn-electron"
+    ],
+    "author": "liliexuan",
+    "license": "Apache License V2.0",
+    "devDependencies": {
+        "electron": "~1.7.8"
+    }
+}
