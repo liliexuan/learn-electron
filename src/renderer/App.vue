@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'learn-electron'
+    name: 'app'
   }
 </script>
 

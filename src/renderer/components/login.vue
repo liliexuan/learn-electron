@@ -91,7 +91,7 @@ export default {
   width: 350px;
   padding: 35px 35px 15px 35px;
   background: rgb(245, 251, 253);
-  border: 1px solid #c7f4ff;
+  border: 1px solid #e2f3f7;
   box-shadow: 0 0 5px #cac6c6;
 }
 .login-container .title {
