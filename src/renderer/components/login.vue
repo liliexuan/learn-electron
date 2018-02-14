@@ -87,19 +87,19 @@ export default {
   border-radius: 5px;
   -moz-border-radius: 5px;
   background-clip: padding-box;
-  margin: 180px auto;
-  width: 350px;
+  margin: 20px auto;
+  width: 280px;
   padding: 35px 35px 15px 35px;
   background: rgb(245, 251, 253);
   border: 1px solid #e2f3f7;
   box-shadow: 0 0 5px #cac6c6;
 }
 .login-container .title {
-    margin: 0px auto 40px auto;
+    margin: 0px auto 20px auto;
     text-align: center;
     color: #000000;
   }
 .login-container .remember {
-    margin: 0px 0px 35px 0px;
+    margin: 0px 0px 20px 0px;
   }
 </style>
